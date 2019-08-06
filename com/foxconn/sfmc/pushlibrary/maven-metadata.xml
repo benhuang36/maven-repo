@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.foxconn.sfmc</groupId>
+  <artifactId>pushlibrary</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190806090717</lastUpdated>
+  </versioning>
+</metadata>
